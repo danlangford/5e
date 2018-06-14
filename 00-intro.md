@@ -1,4 +1,4 @@
-# BAGEL BITES: house rules ideas v0.5
+# BAGEL BITES: house rule ideas v0.5
 
 This document presents house rules that may be found in a campaign run by Dan '8bagels'. The goal of their design is to promote fun, collaboration, simplicity, elegance, grittiness, and interesting player choices.
 
