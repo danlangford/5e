@@ -2,6 +2,8 @@
 
 ### Dropping to 0 Hit Points
 
+[this is a test of section links](#stabilizing-a-dying-creature)
+
 When you drop to 0 hit points, you either die outright, as explained in the PHB or you are **Dying**, as explained in the following sections.
 
 <div class='descriptive'>
