@@ -1,12 +1,12 @@
-# BAGEL BITES: house rule ideas v0.5
+# BAGEL BITES: house rule ideas
 
-This document presents house rules that may be found in a campaign run by Dan '8bagels'. The goal of their design is to promote fun, collaboration, simplicity, elegance, grittiness, and interesting player choices.
+This document presents house rules that may be found in a campaign run by Dan '8bagels'. The goal of their design is to promote fun, collaboration, simplicity, elegance, grit, and interesting player choices.
 
 ## Table of Contents
 
-| Feature       | Description |
-|:-------------:|:-----------:|
-|  Hit Dice     | use your hit dice for more |
-|  Dying        | an alternative to death saving throws |
-|  Downtime     | helping players track long term goals |
-|  Players Roll | players roll to defend, apply spell effects |
+| Feature                        | Description |
+|:------------------------------:|:-----------:|
+| [Hit Dice](hitdice.md)         | use your hit dice for more |
+| [Dying](dying.md)              | an alternative to death saving throws |
+| [Downtime](downtime.md)        | helping players track long term goals |
+| [Players Roll](playersroll.md) | players roll to defend, apply spell effects |
