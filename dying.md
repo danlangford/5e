@@ -10,14 +10,15 @@ Falling unconcious is good because it takes a player out of the fight and raises
 
 > #### Summary
 > - Death Saving Throws are no longer used
-> - **Drop to 0 HP:** you are **Dying**, suffer **+1 Exhaustion** levels
+> - **Drop to 0 HP:** you are **Dying**, suffer **+1 Exhaustion** level
 > - **End of turn:** suffer **+1 Exhaustion** level
-> - **Take Damage:** suffer **+1 Exhaustion** level , **+2** levels on a crit
+> - **Take Damage:** suffer **+1 Exhaustion** level
 > - **Suffer Level 6:** level 6 of exhaustion is Death
 > - **Stabilized:** actions to stabilize **restore 1 HP** to the **Dying** creature. you can stabalize yourself
+> - **First Aid:** Medicine check to stabalize any creature you can touch **DC = 10 + targets exhaustion level**
 > - **Regain any HP:** no longer **Dying**, however **Exhaustion** remains
 > - **Heroic Death:** while **Dying** use an action to secure grand Heroic Death for great impact
-> - **Max Hit Die:** if you spend a Hit Die and roll max value your invigorated and remove 1 level of exhaustion
+> - see below for ideas around removing exhaustion levels faster
 
 ## Dropping to 0 Hit Points
 
@@ -27,7 +28,9 @@ When a creature drops to 0 hit points, it either dies outright due to the extrem
 
 **Dying** is a special condition that simply means a creature has 0 hit points and is not dead yet. A creature obtains the **Dying** condition immediatly when they drop to 0 hit points and looses the condition as soon as they gain any hit points.
 
-The **Dying** condition causes the creature to suffer one additional level of exhaustion 1) immediatly and 2) at the end of their turn. 
+The **Dying** condition causes the creature to suffer **+1 Exhaustion** level 1) immediatly, 2) at the end of their turn, 3) when they take damage.
+
+**Dying** creatures are conscious. As such spells like _Sleep_ will still affect them. 
 
 As per the exhaustion rules if a creature gains the sixth level of exhaustion it is dead. Players should consult with their DM about generating a new character.
 
@@ -35,19 +38,21 @@ As per the exhaustion rules if a creature gains the sixth level of exhaustion it
 
 Exhaustion gained from **Dying** does not end when the **Dying** condition is lost unless the healing method specifically describes also removing levels of exhaustion. Exhaustion gained from **Dying** is like all other exhaustion. See _Exhaustion_ in _Conditions_ for information on removing levels of exhaustion.
 
-The goal is to create a scenario where the character knows they are on their way to death and has multiple rounds to either stop the death or go out with a bang. These rules create a panic in the character without removing their abiulity to do something about it. Incombination with existing rules about removing level of exhaustion this creates a scenario where the closer you got to death to longer your character takes to recover from the shock of that situation. It could take multiple days to fully recover. During that time the character will have some disadvantage on checks and reduced speed (as per the exhaustion levels) and this represents a bit of shell shock or PTSD being suffered by the character.
+This informs a character they are on their way to death and grants multiple rounds to either stop the death or go out with a bang. Urgency is created without removing the characters ability to do something about it. In combination with existing rules about removing level of exhaustion this creates a scenario where the closer you got to death to longer your character takes to recover from the shock of that situation, possibly multiple days. During that time the character will have some disadvantage on checks and reduced speed (as per the exhaustion levels) and this represents a bit of shell shock or PTSD being suffered by the character.
+
+### Falling Prone Instead
+
+When the **Dying** condition imposes suffering **+1 Exhaustion** levels the player may choose that their character instead falls prone. This option is only available if the character has not already been prone this turn.
 
 ### Damage while Dying.
 
-If you take any damage while you are **Dying**, you suffer one additional level of exhaustion. If the damage is from a critical hit, you suffer two additional levels of exhaustion. If the damage equals or exceeds your hit point maximum, you suffer instant death.
+If you take any damage while you are **Dying**, you suffer **+1 Exhaustion** level. If the damage equals or exceeds your hit point maximum, you suffer instant death.
 
 ### Stabilizing a Dying Creature.
 
-The best way to save a **Dying** creature is to heal it. Spells and abilities that "stabilize" a creature now heal the creature for one hit point including administering first aid.
+Effects that stabalize a **Dying** creature now do so by healing for one hit point. Stabalization via first aid can be done on any creature you can touch and requires a successful Wisdom (Medicine) check with a DC of 10 + targets exhaustion level.
 
-You can use your action to administer first aid to a **Dying** creature including yourself, which requires a successful DC 8+exhaustion level Wisdom (Medicine) check. So for a creature at exhaustion level 4 the DC is 12. This check is not exempt the negative effects of your current level of exhaustion.
-
-Creatures that live after having the **Dying** condition have been at deaths door. Thats a very traumatic situation. It may be appropriate to roll on the "Lingering Injuries Table" (DMG ch9) for the creature.  
+Creatures that have been stabalized from **Dying** have been at deaths door. Thats a very traumatic situation. It may be appropriate to roll on the "Lingering Injuries Table" (DMG ch9) for the creature.  
 
 ### Optional: Boromirs Heroic Death 
 
@@ -55,7 +60,7 @@ If you are **Dying**, as an action you can have a Heroic Death. Consult with the
 
 Consider the final moments of Boromir (LOTR) where, filled with arrows, he makes multiple resurgances killing many more Orcs and setting up Lurtz to be ambushed. Or consider Leslie Coffelt (IRL) who was shot 3 times and limping along returned fire killing his assailant and successfully defending President Truman from assassination before passing out and dying.  
 
-## Optional: Removing Exhaustion 
+## Optional: Removing Exhaustion Faster
 I have been floating ideas on making the effects of the **Dying** condition not last so long. Here are some of the ideas:
 
 - when you spend a Hit Die and you roll maximum value your current exhaustion level is reduced one level 

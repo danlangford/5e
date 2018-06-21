@@ -5,7 +5,7 @@ _(back to [readme.md](readme.md))_
     also worth noting is the existing rule that state characters can only benefit from 1 long rest every 24 hours
 
 > #### Goals:
-> - give more uses for Hit Dice, staying on brand
+> - provide more uses for Hit Dice, staying on brand
 > - prevent a full character reset during long rest
 > - provide collaboration, interesting player choice
 
@@ -15,9 +15,10 @@ A character already has a pool of Hit Point Dice (Hit Dice or HD) that represent
 > - Spending HD is 1HD+CON
 > - After long rest characters no longer get full heal
 > - After long rest characters regain all spent HD
-> - After sort or long rest spend HD to regain hit points, repeated as needed on same creature
-> - Use a Reaction to spend HD for bonus to as attack, save, or check
+> - After short or long rest spend HDs to regain hit points
+> - Use a Reaction to spend HDs for bonus to an attack, save, or check
 > - can spend HD to assist another creature
+> - experimental: rolling max value when spending Hit Die also removes 1 Exhaustion level
 
 
 ## Spending a Hit Die
@@ -42,7 +43,7 @@ _For example, Bob the Barbarian is in front line combat against a hoard of lizar
 
 ## Assisting your Allys
 
-In an attempt to encourage group collaboration, reliance, and planning you can spend Hit Dice to assist any other creature. When spending Hit Dice to regain hit points during a rest you may only benefit a single creature that your character can touch for some time. Activities of this nature may include applying pressure, wrapping wounds, removing a spear head from their buttock, or a good pep talk.
+In an attempt to encourage group collaboration, reliance, and planning you can spend Hit Dice to assist any other creature. Activities of this nature may include applying pressure, wrapping wounds, removing a spear head from their buttock, or a good pep talk.
 
 This assistance includes Pushing Yourself to assist others during encounters. 
 
@@ -50,9 +51,11 @@ This turns all the individual Hit Dice pools into one large party pool that the 
 
 _For example, Carla is a Cleric in a bad spot. The red wizard just threw a fireball at her and Frank the Fighter. If she doesnt succeed at this saving throw she may drop to 0 hit points which would be bad for the entire party. She rolled very low. A Cleric Hit Die is 1d8 and Carlas Constitution modifier is +1. A Fighter Hit Die is 1d10 and Franks Consititution modifier is +3. Frank knows that he has a greater chance of helping Carla and he happens to still have his Reaction available. He Pushes Himself using his Reaction to spend a Hit Die granting Carla a bonus to her Dexterity save. It worked, she made her save and only took half of the damage. In narrative, as the fireball comes crashing down Frank covers Carla shielding her from much of the blast. Its now Franks turn and he uses his Bonus Action to use Second Wind. Everybody is going to make it._
 
-_In another example, Pat the Paladin recently fell into a pit of lava. At the end of the paries long rest Pat spent his last two Hit Dice but the healing came out pretty low. Pat is very concerned about the hag they need to visit tomorrow and he doesn't want to be low on health. _
+_In another example, Pat the Paladin recently fell into a pit of lava. At the end of the parties long rest Pat spent his last two Hit Dice but the healing came out pretty low. Pat is very concerned about the hag they need to visit in the morning and he doesn't want to be low on health. Rita the ranger decides to spend two more Hit Dice to assist in patching up and healing the paladin. The paladin promises to protect the ranger tomorrow and spend Hit Dice or other healing on her if she needs it._
 
 ## Invigoration
 
-Occasionally while dipping into your vitality you will experience a surge of invigoration. When you roll the maximum value while spending a Hit Die you can immediatly remove 1 level of exhaustion from yourself.
+This rule is being experimented with along with other rules to help reduce levels of exhaustion. Occasionally while dipping into your vitality you will experience a surge of invigoration. When you roll the maximum value while spending a Hit Die you can immediatly remove 1 level of exhaustion from yourself.
+
+
 
