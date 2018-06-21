@@ -1,4 +1,5 @@
 # Hit Dice
+_(back to [readme.md](readme.md))_
 
     in order for this to work you need to be pushing for 6-8 encounters between long rests.
     also worth noting is the existing rule that state characters can only benefit from 1 long rest every 24 hours
