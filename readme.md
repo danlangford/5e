@@ -1,6 +1,8 @@
-# BAGEL BITES: house rule ideas
+# 5e House Rules and Campaign Notes
 
 This document presents house rules that may be found in a campaign run by Dan '8bagels'. The goal of their design is to promote fun, collaboration, simplicity, elegance, grit, and interesting player choices.
+
+Also there contains some campaign notes in [The Story](thestory.md) 
 
 Many of these rules rely on a couple of foundations from the PHB and DMG:
 
