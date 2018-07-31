@@ -1,0 +1,5 @@
+* [highest 1 in pool](highestinpool.md)
+* [Progress Clocks](progressclocks.md)
+* [3d6 in order](3d6inorder.md)
+* [d6-d6](d6-d6.md)
+* [Advantage/Disadvantage](advantagedisadvantage.md)

@@ -1,0 +1,1 @@
+Pulled from Blades in the Dark this is a simple mechanic to track progress over time. 

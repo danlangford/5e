@@ -1,4 +1,4 @@
 # Downtime
 _(back to [readme.md](readme.md))_
 
-    //TODO add progress clocks and downtime concepts adapted from blades in the dark
+// TODO add [Progress Clocks](progressclocks.md) and downtime concepts adapted from Blades in the Dark

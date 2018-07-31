@@ -2,4 +2,4 @@
 
 ## ICS Campaign 
 
-![ICS Current](icsalcurrent.jpeg)
+![ICS Current](icsalcurrent.jpg)

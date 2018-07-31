@@ -1,0 +1,1 @@
+Players may hold 2-3 points of inspiration at a time.
