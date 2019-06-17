@@ -1,5 +1,5 @@
 # Hit Dice
-_(back to [readme.md](readme.md))_
+_(back to [readme.md](README.asc))_
 
 ```
 in order fort his to work you need to be pushing for 6-8 encounters

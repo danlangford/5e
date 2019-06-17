@@ -1,5 +1,5 @@
 # Dying
-_(back to [readme.md](readme.md))_
+_(back to [readme.md](README.asc))_
 
 > **Goals**
 >
