@@ -1,5 +1,5 @@
 # Real Rules
 
-    a TOC would be cool
+{:toc}
 
 {% include_relative 5ePacing.md %}

@@ -1,1 +1,1 @@
-{% include redirect.html url="Advantage.html" %}
+{% include redirect.html url="Advantage" %}

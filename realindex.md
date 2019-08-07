@@ -1,9 +1,7 @@
-* apparently this line is needed
-{:toc}
-
 # Index
 
-    a TOC would be cool
+* TOC here
+{:toc}
 
 ## Alphabetical Listing
 
@@ -29,9 +27,9 @@
 - [x] [OSR](OSR.md)
 - [x] [PlayersRoll](PlayersRoll.md)
 - [x] [ProgressClocks](ProgressClocks.md)
-- [x] [readme](readme.md)
+- [x] [readme](README.md)
 - [x] [realindex](realindex.md)
-- [ ] [RealRules](RealRules.md)
+- [x] [RealRules](RealRules.md)
 - [x] [Rulesets](Rulesets.md)
 - [x] [SideInitiativePlus](SideInitiativePlus.md)
 - [x] [SpellPoints](SpellPoints.md)
@@ -41,7 +39,7 @@
 ## Hierarchical Listing
 
 - [realindex](realindex.md)
-- [readme](readme.md)
+- [readme](README.md)
 - [index](index.md)
   - [Mechanics](Mechanics.md)
     - [Advantage](Advantage.md)
