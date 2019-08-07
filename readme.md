@@ -1,29 +1,36 @@
-# 5e House Rules and Campaign Notes
+# 5e House Rules
 
-> TODO: reorganize this document
+* TOC goes here
+{:toc}
 
-This document presents house rules that may be found in a campaign run by Dan '8bagels'. The goal of their design is to promote fun, collaboration, simplicity, elegance, grit, and interesting player choices.
+## Introduction
 
-* [Houserules](houserules.md)
-* [Mechanics](mechanics.md)
+These documents present house rules that may be found in a campaign run by Dan '8bagels'.
+The goal of their design is to promote fun, collaboration, simplicity, elegance, grit, and interesting player choices.
 
-Also there contains some campaign notes in [The Story](thestory.md) 
 
-Many of these rules rely on a couple of foundations from the PHB and DMG:
+| Feature                     | Description
+|-----------------------------|-----------------------------
+| [Mechanics](Mechanics.md)   | little building blocks of a game
+| [HouseRules](HouseRules.md) | rules use mechanics to resolve questions
+| [RealRules](RealRules.md)   | overlooked or optional rules from designers
+| [Rulesets](Rulesets.md)     | collections of rules for a specific tone
+| [TheStory](TheStory.md)     |
 
-- creatures can only gain the benefits of a long rest once per 24 hours
-- the game is designed around ~2 encounters per short rest and ~6-8 encounters per long rest
+## Common Icons
 
-And some rules leverage each other so consider that:
+| Use       | Unicode | Github
+|-----------|---------|--------
+| Tip       | 💡      | :bulb: `:bulb:`
+| Note      | ℹ️, ℹ   | :information_source: `:information_source:`
+| Important | ❗, !   | :heavy_exclamation_mark: `:heavy_exclamation_mark:`
+| Question  | ❓, ?   | :question: `:question:`
+| Warning   | ⚠️, ⚠   | :warning: `:warning:`
+| Caution   | 🔥      | :fire: `:fire:`                   
+| To Do     | 📋      | :clipboard: `:clipboard:`                   
 
-- each long rest you DO NOT get full HP regained
-- Hit Dice are a shared resource used in multiple mechanics
+## TODO
 
-## Directory of Rules
-
-| Feature                        | Description |
-|:------------------------------:|:-----------:|
-| [Hit Dice](hitdice.md)         | use your hit dice for more |
-| [Dying](dying.md)              | an alternative to death saving throws |
-| [Downtime](downtime.md)        | helping players track long term goals |
-| [Players Roll](playersroll.md) | players roll to defend, apply spell effects |
+- [ ] consider a TOC solution
+- [ ] leverage jekyll categories/tags 
+- [ ] make each page more like a "blog post"

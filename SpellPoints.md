@@ -1,12 +1,12 @@
-# Spell Points 
+## Spell Points
 
 Spell Points in the DMG are not easy to manage due to the complex costs and tables. This attempts to simplify the calculation of points at the cost of possibly not being as balanced. 
 
-## Set In Stone
+### Set In Stone
 
 Max Spell Level = Class Level / 2 (round up)
 
-## Still Up For Debate
+### Still Up For Debate
 
 Spell Points / day = Class Level x Spell Casting Modifier
 
