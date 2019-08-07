@@ -1,6 +1,3 @@
---
-msg: hi
---
 
 ## 3d6 in Order
 

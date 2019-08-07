@@ -10,10 +10,10 @@ The goal of their design is to promote fun, collaboration, simplicity, elegance,
 
 | Feature                     | Description
 |-----------------------------|-----------------------------
-| [Mechanics](mechanic/index.md)   | little building blocks of a game
-| [HouseRules](rule/index.md) | rules use mechanics to resolve questions
-| [RealRules](rule/RealRules.md)   | overlooked or optional rules from designers
-| [Rulesets](ruleset/index.md)     | collections of rules for a specific tone
+| [Mechanics](mechanics/index.md)   | little building blocks of a game
+| [HouseRules](rules/index.md) | rules use mechanics to resolve questions
+| [RealRules](rules/RealRules.md)   | overlooked or optional rules from designers
+| [Rulesets](rulesets/index.md)     | collections of rules for a specific tone
 | [TheStory](TheStory.md)     |
 
 

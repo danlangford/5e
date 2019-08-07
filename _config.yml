@@ -1,4 +1,23 @@
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 
 kramdown:
   toc_levels: "2,3"
+
+defaults:
+  - scope:
+      path: "mechanics"
+    values:
+      breadcrumbs: true
+  - scope:
+      path: "rules"
+    values:
+      breadcrumbs: true
+  - scope:
+      path: "rulesets"
+    values:
+      breadcrumbs: true
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
