@@ -9,3 +9,5 @@ or said another way
 > When you score a critical hit causing you to roll all your damage dice twice, the second roll of the damage dice always land on their largest possible value.
 
 If the PCs use this rule so do the monsters. 
+
+does the underlying mechanic need a name? like "PlusMax"?

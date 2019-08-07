@@ -6,7 +6,7 @@ The system described below has correct math and has numerical adjustments consis
 
 ### General Idea
 
-In a situation in which one character rolls and the DC is determined by another character you -10 the static number to get a modifier and you +12 the modificer to create the DC. This pattern has the players dealing in units of 10 which they already do when considering passive abilities.
+In a situation in which one character rolls and the DC is determined by another character you -10 the static number to get a modifier and you +12 the modifier to create the DC. This pattern has the players dealing in units of 10 which they already do when considering passive abilities.
 
 #### Math Time
 

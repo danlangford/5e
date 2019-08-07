@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 
 kramdown:
   toc_levels: "2,3"

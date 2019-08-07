@@ -9,3 +9,6 @@ used to link to a picture
 ## Ferrin Faction
 
  📋 include link to the players typed notes
+ 
+ 
+ TODO consider if this should actually be called "The World"

@@ -2,15 +2,15 @@
 
 Creating ability scores and then converting those to abilities is a complicated process that requires a chart or memorizing a formula. Interestingly enough ability scores are rarely used in the game yet they take up a portion of the character sheet and and make the process more confusing for new players. Is there a way during character creation we could only deal in ability modifiers?
 
-My proposal is to use the [d6-d6](d6-d6.md) mechanic to create a range of numbers -5 to +5. We will also sprinkle in some [HighestInPool](HighestInPool.md) mechanics
+My proposal is to use the [d6-d6](../mechanic/d6-d6.md) mechanic to create a range of numbers -5 to +5. We will also sprinkle in some [HighestInPool](../mechanic/HighestInPool.md) mechanics
 
 First select your Race. Your parents conceived of you prior to us knowing how smart you would be so this is simulating that pattern and allowing our Race to influence our rolls. 
 
 In order (STR, DEX, CON, INT, WIS, CHA) roll for your ability modifiers.
 
-You are rolling a white d6 that represents your race and fortune, and a black d6 the represents fate or bad luck. Always treat the white as positive and the black as negative. Take the white result and subtract from it the black result. This is the [d6-d6](d6-d6.md) mechanic.
+You are rolling a white d6 that represents your race and fortune, and a black d6 the represents fate or bad luck. Always treat the white as positive and the black as negative. Take the white result and subtract from it the black result. This is the [d6-d6](../mechanic/d6-d6.md) mechanic.
 
-Your race grants a bonus to an ability. In standard D&D 5e its a static bonus to the Ability Score. In this variant it is a bonus number of white dice to be added to your roll. When you roll more than 1 white dice use the [HighestInPool](HighestInPool.md) mechanic so that the resulting value is still a single value between 1 and 6. If your race ability bonus is +2 to Dexterity then you will roll now 3 white die and 1 black die. 1 white die is from the baseline mechanic and 2 of those white dice from the racial ability bonus.
+Your race grants a bonus to an ability. In standard D&D 5e its a static bonus to the Ability Score. In this variant it is a bonus number of white dice to be added to your roll. When you roll more than 1 white dice use the [HighestInPool](../mechanic/HighestInPool.md) mechanic so that the resulting value is still a single value between 1 and 6. If your race ability bonus is +2 to Dexterity then you will roll now 3 white die and 1 black die. 1 white die is from the baseline mechanic and 2 of those white dice from the racial ability bonus.
 
 This makes it so that abilities that your race are known for will statistically have a tendency to roll higher but it is not guaranteed. 
 
@@ -38,7 +38,7 @@ You may consider using d4-d4 to bring the possible bounds to -3 and +3.
 
 ### UPDATE
 
-after playing with this for a while and comparing some probability graphs I determined that 3d4-3d4 is much closer to the typical distribution of 3d6-10/2. But this starts to get complicated and its impossible to get a +4 out of the gate. I can see roll 2d4-2d4 (described as [Advantage](Advantage.md)) then after the roll add the racial bonus without adjustment. The real problem here is that d4s suck.
+after playing with this for a while and comparing some probability graphs I determined that 3d4-3d4 is much closer to the typical distribution of 3d6-10/2. But this starts to get complicated and its impossible to get a +4 out of the gate. I can see roll 2d4-2d4 (described as [Advantage](../mechanic/Advantage.md)) then after the roll add the racial bonus without adjustment. The real problem here is that d4s suck.
 
 ```anydice
 output (3d6-10)/2 named "3d6"
