@@ -1,5 +1,0 @@
-{% for doc in site.static_files %}
-    {% if doc.path contains page.dir and doc.name != page.name %}
-* [{{ doc.basename }}]({{ doc.basename }}.html)
-    {% endif %}
-{% endfor %}

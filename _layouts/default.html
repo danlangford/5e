@@ -40,10 +40,12 @@
   </header>
   <section>
 
+    <h1>{{ page.title }}</h1>
+
     {% if page.breadcrumbs %}
     {% include breadcrumbs.html %}
     {% endif %}
-
+    <hr/>
     {{ content }}
 
   </section>

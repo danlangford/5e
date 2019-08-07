@@ -1,0 +1,8 @@
+{% assign sorted_pages = site.html_pages | sort:'title' %}
+{% for doc in sorted_pages  %}
+    {% if doc.dir == page.dir and doc.name != page.name %}
+* [{{ doc.title }}]({{ doc.url }})
+    {% endif %}
+{% endfor %}
+
+

@@ -1,7 +1,9 @@
-# House Rules
+---
+title: Rules
+---
 
 Rules leverage mechanics and interact with each other in interesting ways. 
 
-{% include dirlisting.html %}
+{% include pagelisting.html %}
 
 TODO incorporate the [RealRules](RealRules.md) doc into this

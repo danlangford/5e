@@ -2,6 +2,8 @@
 
 >⚠️: This page is by default not rendered and not accessible via the hosted jekyll site. Im ok with this. This allows me to put a more dev centric README here for the author and a more player centric welcome in the index
 
+https://danlangford.github.io/5e
+
 ## Introduction
 
 These documents present house rules that may be found in a campaign run by Dan '8bagels'.
