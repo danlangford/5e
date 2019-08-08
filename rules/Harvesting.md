@@ -12,6 +12,8 @@ The part harvested will use a variant of the [Recharge](../mechanics/Recharge.md
 Whenever you go to use the part, first roll a single Hit Die from the source creature. On a 1, the part is destroyed and you take `1dHitDie` damage.
 Otherwise you are able to successfully use the part this time. 
 
+>{{site.TODO}} discuss more about the different parts. what part of the stat blocks are useful and how to tone them down a bit
+
 ## Optionally
 
 You may opt to spend 1 hour with the creatures body prior to your check to help improve the odds of success. 
@@ -32,10 +34,10 @@ Some specific skill successes offer additional boons.
 | INT(Investigation) | Able to get advantage on next skill check in challenge
 | CONSTITUTION       | Resistance to further damage in the skill challenge and Harvest check
 
->💡: Consider Strength(Athletics) for removing a tooth, Dexterity(Sleight of Hand) for a careful removal of an eye, Constitution for removing a venom sack.
+>{{site.TIP}} Consider Strength(Athletics) for removing a tooth, Dexterity(Sleight of Hand) for a careful removal of an eye, Constitution for removing a venom sack.
 > A DM could allow any check like Charisma(Persuasion) vs a living Dragon for a scale.  
 > This is a great opportunity for the players to help direct and narrate the story. 
 
 ---
 
->📝: determine steps required to add the gained abilities to an item/weapon permanently
+>{{site.TODO}} determine steps required to add the gained abilities to an item/weapon permanently

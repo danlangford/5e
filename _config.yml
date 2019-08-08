@@ -2,6 +2,9 @@ title: 5e House Rules
 logo: http://i.imgur.com/g6gy925.jpg
 theme: jekyll-theme-minimal
 
+plugins:
+  - jemoji
+
 kramdown:
   toc_levels: "2,3"
 
@@ -22,4 +25,13 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+
+TIP: ":bulb:"
+IDEA: ":bulb:"
+NOTE: ":information_source:"
+INFO: ":information_source:"
+WARN: ":warning:"
+TODO: ":memo:"
+FIXME: ":wrench:"
 

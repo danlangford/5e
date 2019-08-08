@@ -23,14 +23,13 @@ The goal of their design is to promote fun, collaboration, simplicity, elegance,
 
 The following callouts may appear throughout the text. 
 
-| Icon | Usage
-|------|-------
-| >💡: | Tip/Ideas
-| >ℹ️: | Note/Info
-| >❗: | Important
-| >❓: | Question 
-| >⚠️: | Warning/Caution
-| >📝: | To ~~Do~~ Edit
+| Icon | Code | Usage
+|------|-------|---
+| {{site.TIP}}  | `{{site.TIP}}`  | Tip/Ideas
+| {{site.INFO}} | `{{site.INFO}}` | Note/Info
+| {{site.WARN}} | `{{site.WARN}}` | Warning/Caution
+| {{site.TODO}} | `{{site.TODO}}` | To ~~Do~~ Edit
+| {{site.FIXME}} | `{{site.FIXME}}` | Needs fixing
 
 ## Progress
 

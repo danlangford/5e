@@ -20,10 +20,10 @@ The goal of their design is to promote fun, collaboration, simplicity, elegance,
 The following callouts may appear throughout the text. 
 
 | Icon | Usage
-|------|-------
-| 💡   | Tip/Ideas
-| ℹ️   | Note/Info
-| ❗   | Important
-| ❓   | Question 
-| ⚠️   | Warning/Caution
-| 📝   | To ~~Do~~ Edit
+|------|---
+| {{site.TIP}}  | Tip/Ideas
+| {{site.INFO}} | Note/Info
+| {{site.WARN}} | Warning/Caution
+| {{site.TODO}} | To ~~Do~~ Edit
+| {{site.FIXME}} | Needs fixing
+
