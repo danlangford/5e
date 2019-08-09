@@ -2,6 +2,8 @@ title: 5e House Rules
 logo: http://i.imgur.com/g6gy925.jpg
 theme: jekyll-theme-minimal
 
+baseurl: /5e
+
 plugins:
   - jemoji
 
