@@ -21,6 +21,8 @@ Most adventurers find themselves driven by
 
 No matter what drives your adventuring one thing is for sure, there is plenty of opportunity in this fantastical world. 
 
+## Character Concept
+
 Your adventurer is described by abilities (String, Intelligence, Charisma, etc.) as well as Race, Class, and Background. The class is the most impactful options during character creation. If you are new to the game you may want to start with these easy to play, classic options:
 
 | Races                                    | Classes                                  | Backgrounds 
@@ -30,3 +32,13 @@ Your adventurer is described by abilities (String, Intelligence, Charisma, etc.)
 | [Halfling](http://ddb.ac/races/halfling) | [Fighter](http://ddb.ac/classes/fighter) | [Entertainer](http://ddb.ac/backgrounds/entertainer)
 | [Human](http://ddb.ac/races/human)       | [Rogue](http://ddb.ac/classes/rogue)     | [Sage](http://ddb.ac/backgrounds/sage)
 |                                          | [Wizard](http://ddb.ac/classes/wizard)   | [Soldier](http://ddb.ac/backgrounds/soldier)
+
+## The Adventure Begins
+
+> Nestled in the rocky foothills of the snow-capped Sword Mountains is the mining town of Phandalin, which consists of forty or fifty simple log buildings. Crumbling stone ruins surround the newer houses and shops, showing how this must have been a much larger town in centuries past.
+>
+>Phandalin’s residents are quiet, hard-working folk who came from distant cities to eke out a life amid the harsh wilderness. They are farmers, stonecutters, blacksmiths, traders, prospectors, and children. The town has no walls and no garrison, but most of the adults keep weapons within easy reach in case the need for arms should arise.
+>
+>Visitors are welcome here, particularly if they have coin to spend or news to share. The Stonehill Inn at the center of town offers modest lodging and meals. A couple of doors down from the inn, posted outside the townmaster’s hall, is a job board for adventurers.
+
+![img](https://media-waterdeep.cursecdn.com/attachments/5/742/rta-02.png)
