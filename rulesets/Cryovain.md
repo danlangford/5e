@@ -2,6 +2,8 @@
 title: Cryovain
 ---
 
+## Motivation 
+
 You are adventurers first and foremost. 
 You find yourselves in the country side town of Phandalin just as rumors and suspicions are confirmed:
 A white dragon seems to have taken a liking to the local mountains.
@@ -25,13 +27,13 @@ No matter what drives your adventuring one thing is for sure, there is plenty of
 
 Your adventurer is described by abilities (String, Intelligence, Charisma, etc.) as well as Race, Class, and Background. The class is the most impactful options during character creation. If you are new to the game you may want to start with these easy to play, classic options:
 
-| Races                                    | Classes                                  | Backgrounds 
-|------------------------------------------|------------------------------------------|-------------
-| [Dwarf](http://ddb.ac/races/dwarf)       | [Bard](http://ddb.ac/classes/bard)       | [Acolyte](http://ddb.ac/backgrounds/acolyte)
-| [Elf](http://ddb.ac/races/elf)           | [Cleric](http://ddb.ac/classes/cleric)   | [Criminal](http://ddb.ac/backgrounds/criminal)
-| [Halfling](http://ddb.ac/races/halfling) | [Fighter](http://ddb.ac/classes/fighter) | [Entertainer](http://ddb.ac/backgrounds/entertainer)
-| [Human](http://ddb.ac/races/human)       | [Rogue](http://ddb.ac/classes/rogue)     | [Sage](http://ddb.ac/backgrounds/sage)
-|                                          | [Wizard](http://ddb.ac/classes/wizard)   | [Soldier](http://ddb.ac/backgrounds/soldier)
+| Races                | Classes            | Backgrounds 
+|----------------------|--------------------|-------------
+| [Dwarf][dwarf]       | [Bard][bard]       | [Acolyte][acolyte]
+| [Elf][elf]           | [Cleric][cleric]   | [Criminal][criminal]
+| [Halfling][halfling] | [Fighter][fighter] | [Entertainer][entertainer]
+| [Human][human]       | [Rogue][rogue]     | [Sage][sage]
+|                      | [Wizard][wizard]   | [Soldier][soldier]
 
 ## The Adventure Begins
 
@@ -41,4 +43,20 @@ Your adventurer is described by abilities (String, Intelligence, Charisma, etc.)
 >
 >Visitors are welcome here, particularly if they have coin to spend or news to share. The Stonehill Inn at the center of town offers modest lodging and meals. A couple of doors down from the inn, posted outside the townmaster’s hall, is a job board for adventurers.
 
-![img](https://media-waterdeep.cursecdn.com/attachments/5/742/rta-02.png)
+![Welcome to Phandalin][phandalin photo]
+
+[dwarf]: https://www.dndbeyond.com/races/dwarf
+[elf]: https://www.dndbeyond.com/races/elf
+[halfling]: https://www.dndbeyond.com/races/halfling
+[human]: https://www.dndbeyond.com/races/human
+[bard]: https://www.dndbeyond.com/classes/bard
+[cleric]: https://www.dndbeyond.com/classes/cleric
+[fighter]: https://www.dndbeyond.com/classes/fighter
+[rogue]: https://www.dndbeyond.com/classes/rogue
+[wizard]: https://www.dndbeyond.com/classes/wizard
+[acolyte]: https://www.dndbeyond.com/backgrounds/acolyte
+[criminal]: https://www.dndbeyond.com/backgrounds/criminal
+[entertainer]: https://www.dndbeyond.com/backgrounds/entertainer
+[sage]: https://www.dndbeyond.com/backgrounds/sage
+[soldier]: https://www.dndbeyond.com/backgrounds/soldier
+[phandalin photo]: https://media-waterdeep.cursecdn.com/attachments/5/742/rta-02.png
