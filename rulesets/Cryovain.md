@@ -27,13 +27,13 @@ No matter what drives your adventuring one thing is for sure, there is plenty of
 
 Your adventurer is described by abilities (String, Intelligence, Charisma, etc.) as well as Race, Class, and Background. The class is the most impactful options during character creation. If you are new to the game you may want to start with these easy to play, classic options:
 
-| Races                | Classes            | Backgrounds 
-|----------------------|--------------------|-------------
-| [Dwarf][dwarf]       | [Bard][bard]       | [Acolyte][acolyte]
-| [Elf][elf]           | [Cleric][cleric]   | [Criminal][criminal]
-| [Halfling][halfling] | [Fighter][fighter] | [Entertainer][entertainer]
-| [Human][human]       | [Rogue][rogue]     | [Sage][sage]
-|                      | [Wizard][wizard]   | [Soldier][soldier]
+| Races      | Classes   | Backgrounds 
+|------------|-----------|-------------
+| [Dwarf]    | [Bard]    | [Acolyte]
+| [Elf]      | [Cleric]  | [Criminal]
+| [Halfling] | [Fighter] | [Entertainer]
+| [Human]    | [Rogue]   | [Sage]
+|            | [Wizard]  | [Soldier]
 
 ## The Adventure Begins
 
@@ -43,7 +43,7 @@ Your adventurer is described by abilities (String, Intelligence, Charisma, etc.)
 >
 >Visitors are welcome here, particularly if they have coin to spend or news to share. The Stonehill Inn at the center of town offers modest lodging and meals. A couple of doors down from the inn, posted outside the townmaster’s hall, is a job board for adventurers.
 
-![Welcome to Phandalin][phandalin photo]
+![Welcome to Phandalin]
 
 [dwarf]: https://www.dndbeyond.com/races/dwarf
 [elf]: https://www.dndbeyond.com/races/elf
@@ -59,4 +59,4 @@ Your adventurer is described by abilities (String, Intelligence, Charisma, etc.)
 [entertainer]: https://www.dndbeyond.com/backgrounds/entertainer
 [sage]: https://www.dndbeyond.com/backgrounds/sage
 [soldier]: https://www.dndbeyond.com/backgrounds/soldier
-[phandalin photo]: https://media-waterdeep.cursecdn.com/attachments/5/742/rta-02.png
+[welcome to phandalin]: https://media-waterdeep.cursecdn.com/attachments/5/742/rta-02.png
