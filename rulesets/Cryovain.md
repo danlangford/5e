@@ -20,3 +20,13 @@ Most adventurers find themselves driven by
 3. **Solving a Mystery.** The world is full of mysteries, old and new. Knowing how the universe ticks and unraveling the secrets is what keeps you going. 
 
 No matter what drives your adventuring one thing is for sure, there is plenty of opportunity in this fantastical world. 
+
+Your adventurer is described by abilities (String, Intelligence, Charisma, etc.) as well as Race, Class, and Background. The class is the most impactful options during character creation. If you are new to the game you may want to start with these easy to play, classic options:
+
+| Races                                    | Classes                                  | Backgrounds 
+|------------------------------------------|------------------------------------------|-------------
+| [Dwarf](http://ddb.ac/races/dwarf)       | [Bard](http://ddb.ac/classes/bard)       | [Acolyte](http://ddb.ac/backgrounds/acolyte)
+| [Elf](http://ddb.ac/races/elf)           | [Cleric](http://ddb.ac/classes/cleric)   | [Criminal](http://ddb.ac/backgrounds/criminal)
+| [Halfling](http://ddb.ac/races/halfling) | [Fighter](http://ddb.ac/classes/fighter) | [Entertainer](http://ddb.ac/backgrounds/entertainer)
+| [Human](http://ddb.ac/races/human)       | [Rogue](http://ddb.ac/classes/rogue)     | [Sage](http://ddb.ac/backgrounds/sage)
+|                                          | [Wizard](http://ddb.ac/classes/wizard)   | [Soldier](http://ddb.ac/backgrounds/soldier)
