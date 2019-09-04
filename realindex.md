@@ -68,7 +68,10 @@
     - [Harvesting](rules/Harvesting.md)
 
   - [Rulesets](rulesets/index.md)
+    - [Cryovain](rulesets/Cryovain.md)
     - [OSR](rulesets/OSR.md)
     - [FerrinRuleset](rulesets/Ferrin.md)
+    - [SkinnyRuleset](rulesets/Skinny.md)
+    
 
   - [TheStory](TheStory.md)
