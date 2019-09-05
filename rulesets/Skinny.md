@@ -51,14 +51,14 @@ title: Skinny
 >**Armor Class**: 11+DEX (Leather armor)  
 >**Hit Points**: 8+CON  
 >**Melee Weapon** Attack: `d20⬡+d4△+DEX` Damage: `d6+DEX`  
->**Ranged Weapon** Attack: `d20⬡+d4△+DEX` Damage: `d6+DEX`
+>**Ranged Weapon** Attack: `d20⬡+d4△+DEX` Damage: `d6+DEX`  
 >_If your target is distracted your damage becomes `2d6+DEX`_  
 >
 > -----
 >
 > ### Wizard
 >**Armor Class**: xx  
->**Hit Points**: 6+CON
+>**Hit Points**: 6+CON  
 >**Ranged Spell** Attack: `d20⬡+d4△+INT` Damage: `d10`  
 >
 {:.card}
