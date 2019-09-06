@@ -50,8 +50,8 @@ title: Explorer's Pack
 > _Twice a day: touch a creature and choose to heal `d8+3` HP or inflict `3d10` damage_  
 > _Once a day after short rest heal `d8+CON`_  
 >
-> -----
->
+{:.card}
+
 > ### Rogue
 > **Armor Class**: 11+DEX (Leather armor)  
 > **Hit Points**: 8+CON  
