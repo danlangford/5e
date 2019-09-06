@@ -33,43 +33,65 @@ title: Explorer's Pack
 
 
 > ### Fighter  
-> **Armor Class**: 16 (Chain mail) _DIS on stealth)
 > **Hit Points**: 10+CON  
-> **Greataxe (melee)** Attack: `d20⬡+d4△+STR` Damage: `d12+STR`  
-> _Reroll damage dice showing 1, 2_  
-> _Once a day after short rest heal `d10+CON`_  
+> **Armor Class**: 16 (Chain mail) _DIS on stealth_  
+>  
+> | Attack   | Range | to Hit         | Damage
+> |----------|-------|----------------|-------
+> | Greataxe | 5'    | `d20⬡+d4△+STR` | `d12+STR`*
+> | Handaxe  | 5-20' | `d20⬡+d4△+STR` | `d6+STR`
+>
+> __*__ Reroll damage dice showing 1, 2  
+> _Resting_: 1hr heal `d10+CON`, 8hr heal 100%  
 >
 > -----
 >
 > ### Cleric
-> **Armor Class**: 18 (Chain mail, Shield) _DIS on stealth_  
 > **Hit Points**: 8+CON  
-> **Mace (melee)** Attack: `d20⬡+d4△+STR` Damage: `d6+STR`
-> **Ranged Spell** Attack: `d20⬡+d4△+WIS` Damage: `d8`  
-> _At will magic: moving light objects, creating light, or other harmless effects_  
-> _Twice a day: touch a creature and choose to heal `d8+3` HP or inflict `3d10` damage_  
-> _Once a day after short rest heal `d8+CON`_  
+> **Armor Class**: 18 (Chain mail, Shield) _DIS on stealth_  
+>  
+> | Attack       | Range   | to Hit         | Damage
+> |--------------|---------|----------------|-------
+> | Mace         | 5'      | `d20⬡+d4△+STR` | `d6+DEX`
+> | Sacred Flame | 10-120' | `d20⬡+d4△+WIS` | `d8` 
+>
+> _At will magic_: move light objects, create light/sensory effects  
+> _Spells (2/day)_: touch a creature and choose:  
+> - Cure Wounds: heal `d8+3` hit points  
+> - Inflict Wounds: deal `3d10` damage  
+>
+> _Resting_: 1hr heal `d8+CON`, 8hr heal 100%  
 >
 {:.card}
 
 > ### Rogue
-> **Armor Class**: 11+DEX (Leather armor)  
 > **Hit Points**: 8+CON  
-> **Shortsword (melee)** Attack: `d20⬡+d4△+DEX` Damage: `d6+DEX`  
-> **Shortbow (ranged)** Attack: `d20⬡+d4△+DEX` Damage: `d6+DEX`  
-> _If your target is distracted your damage becomes `2d6+DEX`_  
-> _Once a day after short rest heal `d8+CON`_  
+> **Armor Class**: 11+DEX (Leather armor)  
+>  
+> | Attack     | Range  | to Hit         | Damage
+> |------------|--------|----------------|-------
+> | Shortsword | 5'     | `d20⬡+d4△+DEX` | `d6+DEX`*
+> | Shortbow   | 10-80' | `d20⬡+d4△+DEX` | `d6+DEX`*
+>
+> __*__ If sneaky or flanking your damage becomes `2d6+DEX`  
+> _Resting_: 1hr heal `d8+CON`, 8hr heal 100%  
 >
 > -----
 >
 > ### Wizard
-> **Armor Class**: 10+DEX (no armor)  
 > **Hit Points**: 6+CON  
-> **Dagger (melee)** Attack: `d20⬡+d4△+DEX` Damage: `d4+DEX`  
-> **Ranged Spell** Attack: `d20⬡+d4△+INT` Damage: `d10`  
-> _At will magic: moving light objects, creating light, or other harmless effects_  
-> _Twice a day: target small group of creatures with a spell (save DC=10+INT)_  
-> >  _choose Burning `DEX save vs 3d6` or Thunderwave `STR save vs 2d8 & push back`_  
-> _Once a day after short rest heal `d6+CON`_  
+> **Armor Class**: 10+DEX (no armor)  
+>  
+> | Attack    | Range   | to Hit         | Damage
+> |-----------|---------|----------------|-------
+> | Dagger    | 5-20'   | `d20⬡+d4△+DEX` | `d4+DEX`
+> | Fire Bolt | 10-120' | `d20⬡+d4△+INT` | `d10` 
+>
+> _At will magic_: move light objects, create light/sensory effects  
+> _Spells (2/day)_: force sm group to resist spell (Save DC=10+INT) choose  
+> - _Burning `DEX save vs 3d6`_  
+> - _Thunderwave `STR save vs 2d8 push back`_  
+>
+> _Resting_: 1hr heal `d8+CON`, 8hr heal 100%  
 >
 {:.card}
