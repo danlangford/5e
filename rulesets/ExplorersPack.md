@@ -32,12 +32,11 @@ title: Explorer's Pack
 
 
 
-> A class informs much about a PCs training and capabilities.
 > ### Fighter  
-> **Armor Class**: 19 (Chain mail, Shield, Defense) _DIS on stealth_  
+> **Armor Class**: 16 (Chain mail) _DIS on stealth)
 > **Hit Points**: 10+CON  
-> **Longsword (melee)** Attack: `d20⬡+d4△+STR` Damage: `d8+STR`  
-> _Stow the shield for -2AC and `d10+STR` damage_  
+> **Greataxe (melee)** Attack: `d20⬡+d4△+STR` Damage: `d12+STR`  
+> _Reroll damage dice showing 1, 2_  
 > _Once a day after short rest heal `d10+CON`_  
 >
 > -----
@@ -64,11 +63,12 @@ title: Explorer's Pack
 > -----
 >
 > ### Wizard
-> **Armor Class**: 12  
+> **Armor Class**: 10+DEX (no armor)  
 > **Hit Points**: 6+CON  
 > **Ranged Spell** Attack: `d20⬡+d4△+INT` Damage: `d10`  
 > _At will magic: moving light objects, creating light, or other harmless effects_  
-> _Twice a day: target small group and choose Burning `DEX save (DC 10+INT) vs 3d6` or Thunderwave `STR save (DC 10+INT) vs 2d8 & push back`_  
+> _Twice a day: target small group of creatures with a spell (save DC=10+INT)_  
+> >  _choose Burning `DEX save vs 3d6` or Thunderwave `STR save vs 2d8 & push back`_  
 > _Once a day after short rest heal `d6+CON`_  
 >
 {:.card}
