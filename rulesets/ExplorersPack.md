@@ -33,32 +33,42 @@ title: Explorer's Pack
 
 
 > A class informs much about a PCs training and capabilities.
-> ### Fighter/Defender  
->**Armor Class**: 19 (Chain mail, Shield, Defender) _DIS on stealth_  
->**Hit Points**: 10+CON  
->**Melee Weapon** Attack: `d20⬡+d4△+STR` Damage: `d8+STR`  
->_Stow the shield for -2AC and `d10+STR` damage_  
+> ### Fighter  
+> **Armor Class**: 19 (Chain mail, Shield, Defense) _DIS on stealth_  
+> **Hit Points**: 10+CON  
+> **Longsword (melee)** Attack: `d20⬡+d4△+STR` Damage: `d8+STR`  
+> _Stow the shield for -2AC and `d10+STR` damage_  
+> _Once a day after short rest heal `d10+CON`_  
 >
 > -----
 >
 > ### Cleric
->**Armor Class**: xx  
->**Hit Points**: 8+CON  
+> **Armor Class**: 18 (Chain mail, Shield) _DIS on stealth_  
+> **Hit Points**: 8+CON  
+> **Mace (melee)** Attack: `d20⬡+d4△+STR` Damage: `d6+STR`
+> **Ranged Spell** Attack: `d20⬡+d4△+WIS` Damage: `d8`  
+> _At will magic: moving light objects, creating light, or other harmless effects_  
+> _Twice a day: touch a creature and choose to heal `d8+3` HP or inflict `3d10` damage_  
+> _Once a day after short rest heal `d8+CON`_  
 >
 > -----
 >
 > ### Rogue
->**Armor Class**: 11+DEX (Leather armor)  
->**Hit Points**: 8+CON  
->**Melee Weapon** Attack: `d20⬡+d4△+DEX` Damage: `d6+DEX`  
->**Ranged Weapon** Attack: `d20⬡+d4△+DEX` Damage: `d6+DEX`  
->_If your target is distracted your damage becomes `2d6+DEX`_  
+> **Armor Class**: 11+DEX (Leather armor)  
+> **Hit Points**: 8+CON  
+> **Shortsword (melee)** Attack: `d20⬡+d4△+DEX` Damage: `d6+DEX`  
+> **Shortbow (ranged)** Attack: `d20⬡+d4△+DEX` Damage: `d6+DEX`  
+> _If your target is distracted your damage becomes `2d6+DEX`_  
+> _Once a day after short rest heal `d8+CON`_  
 >
 > -----
 >
 > ### Wizard
->**Armor Class**: xx  
->**Hit Points**: 6+CON  
->**Ranged Spell** Attack: `d20⬡+d4△+INT` Damage: `d10`  
+> **Armor Class**: 12  
+> **Hit Points**: 6+CON  
+> **Ranged Spell** Attack: `d20⬡+d4△+INT` Damage: `d10`  
+> _At will magic: moving light objects, creating light, or other harmless effects_  
+> _Twice a day: target small group and choose Burning `DEX save (DC 10+INT) vs 3d6` or Thunderwave `STR save (DC 10+INT) vs 2d8 & push back`_  
+> _Once a day after short rest heal `d6+CON`_  
 >
 {:.card}
