@@ -74,6 +74,7 @@ title: Explorer's Pack
 > | Shortbow   | 10-80' | `d20⬡+d4△+DEX` | `d6+DEX`*
 >
 > __*__ If sneaky or flanking your damage becomes `2d6+DEX`  
+> _Expertise_: Double proficiency when dealing with locks, traps
 > _Resting_: 1hr heal `d8+CON`, 8hr heal 100%  
 >
 > -----
