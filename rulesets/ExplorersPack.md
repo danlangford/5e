@@ -1,5 +1,5 @@
 ---
-title: Skinny
+title: Explorer's Pack
 ---
 
 > A **Player Character (PC)**, or adventurer, has six main abilities

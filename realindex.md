@@ -71,7 +71,7 @@
     - [Cryovain](rulesets/Cryovain.md)
     - [OSR](rulesets/OSR.md)
     - [FerrinRuleset](rulesets/Ferrin.md)
-    - [SkinnyRuleset](rulesets/Skinny.md)
+    - [Explorer's Pack](rulesets/ExplorersPack.md)
     
 
   - [TheStory](TheStory.md)
