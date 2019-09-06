@@ -65,6 +65,7 @@ title: Explorer's Pack
 > ### Wizard
 > **Armor Class**: 10+DEX (no armor)  
 > **Hit Points**: 6+CON  
+> **Dagger (melee)** Attack: `d20⬡+d4△+DEX` Damage: `d4+DEX`  
 > **Ranged Spell** Attack: `d20⬡+d4△+INT` Damage: `d10`  
 > _At will magic: moving light objects, creating light, or other harmless effects_  
 > _Twice a day: target small group of creatures with a spell (save DC=10+INT)_  
