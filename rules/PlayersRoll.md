@@ -2,7 +2,7 @@
 
 Rolling dice is fun. Wizards of the Coast once released some [Unearth Arcana: Variant Rules](https://media.wizards.com/2015/downloads/dnd/UA5_VariantRules.pdf) that provided some guidelines to allow players to roll to defend an attack or to determine a spells effect when typically those rolls (to hit and to save) would have been done by the DM. In that UA publication the math was very incorrect and did not properly invert the probability of success.
 
-The system described below has correct math and has numerical adjustments consistent with other adjustments done by the players (e.g. Passive Perception and Perception skill modifier have a difference of 10). You use the same measurment of success as all other checks in the game: the roller is trying to **meet or exceed** the determined difficulty target.
+The system described below has correct math and has simple numerical adjustments consistent with other adjustments done by the players (e.g. Passive skills and skill modifiers have a difference of 10). You use the same measurment of success as all other checks in the game: the roller is trying to **meet or exceed** the determined difficulty target.
 
 ### General Idea
 
