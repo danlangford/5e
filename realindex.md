@@ -24,7 +24,7 @@
 - [x] [InspirationPlus](rules/InspirationPlus.md)
 - [x] [MassCombat](rules/MassCombat.md)
 - [x] [Mechanics](mechanics/index.md)
-- [x] [OSR](rulesets/OSR.md)
+- [x] [O5R](rulesets/O5R.md)
 - [x] [PlayersRoll](rules/PlayersRoll.md)
 - [x] [ProgressClocks](mechanics/ProgressClocks.md)
 - [x] [readme](README.md)
@@ -53,7 +53,7 @@
     - [AbilityModifiers](rules/AbilityModifiers.md)
     - [MassCombat](rules/MassCombat.md)
     - [DynamicInitiative](rules/DynamicInitiative.md)
-    - [Stringholds](Stringholds.md)
+    - [Strongholds](Strongholds.md)
     - [PlayersRoll](rules/PlayersRoll.md)
     - [Downtime](rules/Downtime.md)
     - [SpellPoints](rules/SpellPoints.md)
@@ -69,7 +69,7 @@
 
   - [Rulesets](rulesets/index.md)
     - [Cryovain](rulesets/Cryovain.md)
-    - [OSR](rulesets/OSR.md)
+    - [O5R](rulesets/O5R.md)
     - [FerrinRuleset](rulesets/Ferrin.md)
     - [Explorer's Pack](rulesets/ExplorersPack.md)
     
