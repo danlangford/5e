@@ -35,7 +35,7 @@
 - [x] [SideInitiativePlus](rules/SideInitiativePlus.md)
 - [x] [SpellPoints](rules/SpellPoints.md)
 - [x] [Strongholds](rules/Strongholds.md)
-- [x] [TheStory](TheStory.md)
+- [x] [TheWorld](TheWorld.md)
 
 ## Hierarchical Listing
 
@@ -74,4 +74,4 @@
     - [Explorer's Pack](rulesets/ExplorersPack.md)
     
 
-  - [TheStory](TheStory.md)
+  - [TheWorld](TheWorld.md)

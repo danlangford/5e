@@ -9,7 +9,3 @@ You shouldn't need to explain them more than twice.
 {% include pagelisting.html %}
 
 {% include quote.md author="Jesse Schell" text="Game mechanics are the core of what a game truly is. They are the interactions and relationships that remain when all of the aesthetics, technology, and story are stripped away." %}
-
-> "Game mechanics are the core of what a game truly is. They are the interactions and relationships that remain when all of the aesthetics, technology, and story are stripped away."
->
-> -Jesse Schell
