@@ -1,0 +1,3 @@
+> "{{ include.text }}"
+>
+> -{{ include.author }}
