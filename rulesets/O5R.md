@@ -1,4 +1,6 @@
-## O5R
+---
+title: O5R
+---
 
 To get a OSR or B/X or BECMI(Cyclopedia) feel consider using the following traditions and 5e variant rules.
 
