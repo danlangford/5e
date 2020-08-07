@@ -1,5 +1,6 @@
-
-## Advantage/Disadvantage
+---
+title: Advantage/Disadvantage
+---
 
 Introduced to me in D&D 5e it is simply rolling 2 dice, where you would have typically rolled just 1, and using the highest of the two rolls (advantage) or the lowest (disadvantage).
 
