@@ -1,6 +1,6 @@
 # The World
 
-<% include quote.md author="Jane Goodall" text="You cannot get through a single day without having an impact on the world around you. What you do makes a difference and you have to decide what kind of a difference you want to make." %>
+{% include quote.md author="Jane Goodall" text="You cannot get through a single day without having an impact on the world around you. What you do makes a difference and you have to decide what kind of a difference you want to make." %}
 
 ## Phandalin region
 
